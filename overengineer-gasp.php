@@ -3,10 +3,9 @@
  * Plugin Name: Simple Plugin for Google Analytics
  * Plugin URI: https://over-engineer.com/plugins/gasp
  * Description: An unofficial WordPress plugin for Google Analytics.
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: over-engineer
  * Author URI: https://over-engineer.com/
- * Text Domain: overengineer-gasp
  * Domain Path: /languages
  * License: GPLv2
  *
@@ -26,7 +25,7 @@
  * @package GASP
  * @author over-engineer
  * @copyright 2019 over-engineer
- * @version 1.1.1
+ * @version 1.1.2
  */
 
 namespace GASP;
@@ -43,7 +42,7 @@ if ( !class_exists( 'GASP' ) ):
 		/**
 		 * The version number of GASP
 		 */
-		private $version = '1.1.1';
+		private $version = '1.1.2';
 
 		/**
 		 * GASP constructor

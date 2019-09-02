@@ -1,13 +1,14 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Google Analytics Simple Plugin\n"
+"Project-Id-Version: Simple Plugin for Google Analytics\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-02 18:03+0000\n"
-"PO-Revision-Date: 2019-09-02 18:03+0000\n"
-"Last-Translator: over-engineer <dev@over-engineer.com>\n"
-"Language-Team: Greek\n"
-"Language: el\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,53 +17,53 @@ msgstr ""
 
 #: includes/admin/settings.php:20 includes/admin/settings.php:21
 msgid "Google Analytics"
-msgstr "Google Analytics"
+msgstr ""
 
 #: includes/admin/settings.php:32
 msgid "Main settings"
-msgstr "Κεντρικές ρυθμίσεις"
+msgstr ""
 
 #: includes/admin/settings.php:38
 msgid "Google Analytics ID"
-msgstr "Google Analytics ID"
+msgstr ""
 
 #: includes/admin/settings.php:45
 msgid "Anonymize IPs"
-msgstr "Ανωνυμοποίηση διευθύνσεων IP"
+msgstr ""
 
 #: includes/admin/settings.php:52
 msgid "Force SSL"
-msgstr "Εξαναγκασμός SSL"
+msgstr ""
 
 #: includes/admin/settings.php:59
 msgid "Ignore administrators"
-msgstr "Αγνόησε τους διαχειριστές"
+msgstr ""
 
 #: includes/admin/settings.php:66
 msgid "Location"
-msgstr "Τοποθεσία"
+msgstr ""
 
 #: includes/admin/settings.php:145
 msgid "Configure the Simple Plugin for Google Analytics"
-msgstr "Ρύθμιση του Simple Plugin for Google Analytics"
+msgstr ""
 
 #. Name of the plugin
 #: includes/admin/settings.php:155
 msgid "Simple Plugin for Google Analytics"
-msgstr "Simple Plugin for Google Analytics"
+msgstr ""
 
 #. Description of the plugin
 msgid "An unofficial WordPress plugin for Google Analytics."
-msgstr "Ένα ανεπίσημο WordPress plugin για το Google Analytics."
+msgstr ""
 
 #. URI of the plugin
 msgid "https://over-engineer.com/plugins/gasp"
-msgstr "https://over-engineer.com/plugins/gasp"
+msgstr ""
 
 #. Author of the plugin
 msgid "over-engineer"
-msgstr "over-engineer"
+msgstr ""
 
 #. Author URI of the plugin
 msgid "https://over-engineer.com/"
-msgstr "https://over-engineer.com/"
+msgstr ""
