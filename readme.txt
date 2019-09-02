@@ -1,4 +1,4 @@
-=== GASP ===
+=== GA Simple Plugin ===
 Author URI: https://over-engineer.com/
 Plugin URI: https://over-engineer.com/plugins/gasp
 Contributors: overengineer
