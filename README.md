@@ -1,4 +1,4 @@
-# Google Analytics Simple Plugin
+# Simple Plugin for Google Analytics
 😱 GASP. An unofficial WordPress plugin for Google Analytics.
 
 ## Table of Contents
