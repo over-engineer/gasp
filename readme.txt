@@ -6,7 +6,7 @@ Tags: google, analytics, cookiebot
 Requires at least: 4.4
 Tested up to: 5.2
 Requires PHP: 5.6.20
-Stable Tag: 1.0
+Stable Tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -112,6 +112,10 @@ If you have spotted any bugs, or would like to request additional features from 
 1. Plugin settings screen
 
 == Changelog ==
+
+= 1.1: September 3, 2019 =
+
+* Internationalize plugin.
 
 = 1.0: September 2, 2019 =
 
