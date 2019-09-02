@@ -1,4 +1,4 @@
-=== Google Analytics Simple Plugin ===
+=== GASP ===
 Author URI: https://over-engineer.com/
 Plugin URI: https://over-engineer.com/plugins/gasp
 Contributors: overengineer
@@ -46,7 +46,7 @@ and you won’t need to leave your web browser.
 
 1. Log in to your WordPress dashboard
 2. Navigate to the “Plugins” menu
-3. Search for “Google Analytics Simple Plugin”
+3. Search for “GASP”
 4. Click “Install Now” and WordPress will take it from there
 5. Activate the plugin through the “Plugins” menu in WordPress
 
