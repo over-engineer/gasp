@@ -17,8 +17,8 @@ add_action( 'admin_menu', 'GASP\Settings\add_admin_menu' );
 add_action( 'admin_init', 'GASP\Settings\settings_init' );
 
 function add_admin_menu() {
-	add_options_page( __( 'Google Analytics', 'gasp' ),
-		__( 'Google Analytics', 'gasp' ),
+	add_options_page( __( 'Google Analytics', 'overengineer-gasp' ),
+		__( 'Google Analytics', 'overengineer-gasp' ),
 		'manage_options',
 		'gasp',
 		'GASP\Settings\options_page' );
@@ -29,41 +29,41 @@ function settings_init() {
 
 	add_settings_section(
 		'gasp_main_section',
-		__( 'Main settings', 'gasp' ),
+		__( 'Main settings', 'overengineer-gasp' ),
 		'GASP\Settings\settings_section_callback',
 		'gasp_plugin_page' );
 
 	add_settings_field(
 		'ga_id',
-		__( 'Google Analytics ID', 'gasp' ),
+		__( 'Google Analytics ID', 'overengineer-gasp' ),
 		'GASP\Settings\render_field_ga_id',
 		'gasp_plugin_page',
 		'gasp_main_section' );
 
 	add_settings_field(
 		'anonymize_ip',
-		__( 'Anonymize IPs', 'gasp' ),
+		__( 'Anonymize IPs', 'overengineer-gasp' ),
 		'GASP\Settings\render_field_anonymize_ip',
 		'gasp_plugin_page',
 		'gasp_main_section' );
 
 	add_settings_field(
 		'force_ssl',
-		__( 'Force SSL', 'gasp' ),
+		__( 'Force SSL', 'overengineer-gasp' ),
 		'GASP\Settings\render_field_force_ssl',
 		'gasp_plugin_page',
 		'gasp_main_section' );
 
 	add_settings_field(
 		'ignore_admins',
-		__( 'Ignore administrators', 'gasp' ),
+		__( 'Ignore administrators', 'overengineer-gasp' ),
 		'GASP\Settings\render_field_ignore_admins',
 		'gasp_plugin_page',
 		'gasp_main_section' );
 
 	add_settings_field(
 		'location',
-		__( 'Location', 'gasp' ),
+		__( 'Location', 'overengineer-gasp' ),
 		'GASP\Settings\render_field_location',
 		'gasp_plugin_page',
 		'gasp_main_section' );
@@ -142,7 +142,7 @@ function render_field_location() {
  * Print main section subtitle
  */
 function settings_section_callback() {
-	_e( 'Configure the Simple Plugin for Google Analytics', 'gasp' );
+	_e( 'Configure the Simple Plugin for Google Analytics', 'overengineer-gasp' );
 }
 
 /**
@@ -152,7 +152,7 @@ function options_page() {
 	?>
 
 	<form action="options.php" method="post">
-		<h1><?php _e( 'Simple Plugin for Google Analytics', 'gasp' ); ?></h1>
+		<h1><?php _e( 'Simple Plugin for Google Analytics', 'overengineer-gasp' ); ?></h1>
 		<?php
 		settings_fields( 'gasp_plugin_page' );
 		do_settings_sections( 'gasp_plugin_page' );

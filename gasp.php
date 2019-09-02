@@ -6,7 +6,7 @@
  * Version: 1.1
  * Author: over-engineer
  * Author URI: https://over-engineer.com/
- * Text Domain: gasp
+ * Text Domain: overengineer-gasp
  * Domain Path: /languages
  * License: GPLv2
  *
@@ -60,7 +60,7 @@ if ( !class_exists( 'GASP' ) ):
 		 * @since 1.1
 		 */
 		public function load_textdomain() {
-			load_plugin_textdomain( 'gasp',
+			load_plugin_textdomain( 'overengineer-gasp',
 				false,  // this parameter is deprecated
 				dirname( plugin_basename( __FILE__ ) ) . '/languages' );
 		}
