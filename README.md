@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/over-engineer/gasp/master/assets/icon-256x256.png" />
+    <img width="256" height="256" src="https://raw.githubusercontent.com/over-engineer/gasp/master/assets/icon-256x256.png" />
+    <h1>Simple Plugin for Google Analytics</h1>
 </p>
 
-# Simple Plugin for Google Analytics
 😱 GASP. An unofficial WordPress plugin for Google Analytics.
 
 ## Table of Contents
