@@ -142,7 +142,7 @@ function render_field_location() {
  * Print main section subtitle
  */
 function settings_section_callback() {
-	_e( 'Configure the Google Analytics plugin', 'gasp' );
+	_e( 'Configure the Simple Plugin for Google Analytics', 'gasp' );
 }
 
 /**
@@ -152,7 +152,7 @@ function options_page() {
 	?>
 
 	<form action="options.php" method="post">
-		<h1><?php _e( 'Google Analytics Simple Plugin', 'gasp' ); ?></h1>
+		<h1><?php _e( 'Simple Plugin for Google Analytics', 'gasp' ); ?></h1>
 		<?php
 		settings_fields( 'gasp_plugin_page' );
 		do_settings_sections( 'gasp_plugin_page' );

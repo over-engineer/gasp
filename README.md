@@ -17,13 +17,13 @@ Automatic installation is the easiest option — WordPress will handle the file 
 
 1. Log in to your WordPress dashboard
 2. Navigate to the “Plugins” menu
-3. Search for “Google Analytics Simple Plugin”
+3. Search for “Simple Plugin for Google Analytics”
 4. Click “Install Now” and WordPress will take it from there
 5. Activate the plugin through the “Plugins” menu in WordPress
 
 ### Manual installation
 
-1. Upload the entire `gasp` folder to the `wp-content/plugins/` directory
+1. Upload the entire `overengineer-gasp` folder to the `wp-content/plugins/` directory
 2. Activate the plugin through the “Plugins” menu in WordPress
 
 ## ⌨️ Usage
@@ -57,15 +57,15 @@ If you have spotted any bugs, or would like to request additional features from 
 
 ## 📖 License
 
-Google Analytics Simple Plugin is free software: you can redistribute it and/or modify
+Simple Plugin for Google Analytics is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
 
-Google Analytics Simple Plugin is distributed in the hope that it will be useful,
+Simple Plugin for Google Analytics is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Google Analytics Simple Plugin. If not, see <http://www.gnu.org/licenses/>.
+along with Simple Plugin for Google Analytics. If not, see <http://www.gnu.org/licenses/>.

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Google Analytics Simple Plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-01 23:07+0000\n"
+"POT-Creation-Date: 2019-09-02 18:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -44,12 +44,12 @@ msgid "Location"
 msgstr ""
 
 #: includes/admin/settings.php:145
-msgid "Configure the Google Analytics plugin"
+msgid "Configure the Simple Plugin for Google Analytics"
 msgstr ""
 
 #. Name of the plugin
 #: includes/admin/settings.php:155
-msgid "Google Analytics Simple Plugin"
+msgid "Simple Plugin for Google Analytics"
 msgstr ""
 
 #. Description of the plugin
@@ -57,7 +57,7 @@ msgid "An unofficial WordPress plugin for Google Analytics."
 msgstr ""
 
 #. URI of the plugin
-msgid "https://github.com/over-engineer/gasp"
+msgid "https://over-engineer.com/plugins/gasp"
 msgstr ""
 
 #. Author of the plugin
@@ -65,5 +65,5 @@ msgid "over-engineer"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://github.com/over-engineer"
+msgid "https://over-engineer.com/"
 msgstr ""

@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: GA Simple Plugin
+ * Plugin Name: Simple Plugin for Google Analytics
  * Plugin URI: https://over-engineer.com/plugins/gasp
  * Description: An unofficial WordPress plugin for Google Analytics.
  * Version: 1.0

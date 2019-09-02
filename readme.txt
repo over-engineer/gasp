@@ -1,4 +1,4 @@
-=== GA Simple Plugin ===
+=== Simple Plugin for Google Analytics ===
 Author URI: https://over-engineer.com/
 Plugin URI: https://over-engineer.com/plugins/gasp
 Contributors: overengineer
@@ -14,8 +14,7 @@ An unofficial WordPress plugin for Google Analytics.
 
 == Description ==
 
-Google Analytics Simple Plugin (or 😱 GASP for short) is an unofficial WordPress plugin for Google Analytics,
-with Cookiebot integration.
+Simple Plugin for Google Analytics is an unofficial WordPress plugin for Google Analytics, with Cookiebot integration.
 
 = Settings =
 
@@ -29,7 +28,7 @@ Even though this is a really simple plugin, there are settings to:
 = Cookiebot integration =
 
 If you have installed (and activated) the [Cookiebot WordPress plugin](https://wordpress.org/plugins/cookiebot/),
-then “Google Analytics Simple Plugin” will automatically include the Google Analytics code **only** if the user
+then “Simple Plugin for Google Analytics” will automatically include the Google Analytics code **only** if the user
 has given consent for “statistics” cookies. Also, it will disable advertising features (the
 `allow_ad_personalization_signals` option of gtag.js) unless the user has given consent for “marketing” cookies.
 
@@ -46,13 +45,13 @@ and you won’t need to leave your web browser.
 
 1. Log in to your WordPress dashboard
 2. Navigate to the “Plugins” menu
-3. Search for “GASP”
+3. Search for “Simple Plugin for Google Analytics”
 4. Click “Install Now” and WordPress will take it from there
 5. Activate the plugin through the “Plugins” menu in WordPress
 
 = Manual installation =
 
-1. Upload the entire `gasp` folder to the `wp-content/plugins/` directory
+1. Upload the entire `overengineer-gasp` folder to the `wp-content/plugins/` directory
 2. Activate the plugin through the “Plugins” menu in WordPress
 
 = After activation =
