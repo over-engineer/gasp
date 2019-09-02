@@ -53,7 +53,7 @@ If you have spotted any bugs, or would like to request additional features from 
 
 ## 📙 Credits
 
-- [Analytics icon](https://www.iconfinder.com/icons/4202007/analytics_google_logo_social_social_media_icon) by [Flatart](https://www.iconfinder.com/Flatart) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- Icon designed by the awesome [kwnva](https://kwnva.design/)
 
 ## 📖 License
 

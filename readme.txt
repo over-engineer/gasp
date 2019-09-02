@@ -32,10 +32,6 @@ then “Simple Plugin for Google Analytics” will automatically include the Goo
 has given consent for “statistics” cookies. Also, it will disable advertising features (the
 `allow_ad_personalization_signals` option of gtag.js) unless the user has given consent for “marketing” cookies.
 
-= Credits =
-
-- [Analytics icon](https://www.iconfinder.com/icons/4202007/analytics_google_logo_social_social_media_icon) by [Flatart](https://www.iconfinder.com/Flatart) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-
 == Installation ==
 
 = Automatic installation =
