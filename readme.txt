@@ -27,17 +27,13 @@ Even though this is a really simple plugin, there are settings to:
 
 = Cookiebot integration =
 
-If you have installed (and activated) the [Cookiebot WordPress plugin](https://wordpress.org/plugins/cookiebot/),
-then “Simple Plugin for Google Analytics” will automatically include the Google Analytics code **only** if the user
-has given consent for “statistics” cookies. Also, it will disable advertising features (the
-`allow_ad_personalization_signals` option of gtag.js) unless the user has given consent for “marketing” cookies.
+If you have installed (and activated) the [Cookiebot WordPress plugin](https://wordpress.org/plugins/cookiebot/), then “Simple Plugin for Google Analytics” will automatically include the Google Analytics code **only** if the user has given consent for “statistics” cookies. Also, it will disable advertising features (the `allow_ad_personalization_signals` option of gtag.js) unless the user has given consent for “marketing” cookies.
 
 == Installation ==
 
 = Automatic installation =
 
-Automatic installation is the easiest option — WordPress will handle the file transfer,
-and you won’t need to leave your web browser.
+Automatic installation is the easiest option — WordPress will handle the file transfer, and you won’t need to leave your web browser.
 
 1. Log in to your WordPress dashboard
 2. Navigate to the “Plugins” menu
@@ -66,8 +62,7 @@ To find your Google Analytics ID:
 5. Under *PROPERTY*, click **Tracking Info > Tracking Code**.
 Your **Google Analytics ID** is displayed at the top of the page.
 
-The *tracking ID* is a string like `UA-000000-2`.
-It must be included in your tracking code to tell Analytics which account and property to send data to.
+The *tracking ID* is a string like `UA-000000-2`. It must be included in your tracking code to tell Analytics which account and property to send data to.
 
 Refer to the [official Analytics Help](https://support.google.com/analytics/answer/1008080?hl=en#GAID) for more.
 
@@ -110,8 +105,7 @@ Other than that, IANAL (I am not a lawyer) and **I cannot guarantee 100% GDPR co
 
 = Where can I report any bugs and/or request additional features? =
 
-If you have spotted any bugs, or would like to request additional features from the plugin,
-please [file an issue](https://github.com/over-engineer/gasp/issues).
+If you have spotted any bugs, or would like to request additional features from the plugin, please [file an issue](https://github.com/over-engineer/gasp/issues).
 
 == Screenshots ==
 
