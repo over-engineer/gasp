@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Simple Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-01 23:02+0000\n"
+"PO-Revision-Date: 2019-09-01 23:06+0000\n"
+"Last-Translator: over-engineer <dev@over-engineer.com>\n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Description of the plugin
+msgid "An unofficial WordPress plugin for Google Analytics."
+msgstr "Ένα ανεπίσημο WordPress plugin για το Google Analytics."
+
+#: includes/admin/settings.php:45
+msgid "Anonymize IPs"
+msgstr "Ανωνυμοποίηση διευθύνσεων IP"
+
+#: includes/admin/settings.php:145
+msgid "Configure the Google Analytics plugin"
+msgstr "Ρύθμιση του Google Analytics plugin"
+
+#: includes/admin/settings.php:52
+msgid "Force SSL"
+msgstr "Εξαναγκασμός SSL"
+
+#: includes/admin/settings.php:20 includes/admin/settings.php:21
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: includes/admin/settings.php:38
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#. Name of the plugin
+#: includes/admin/settings.php:155
+msgid "Google Analytics Simple Plugin"
+msgstr "Google Analytics Simple Plugin"
+
+#. Author URI of the plugin
+msgid "https://github.com/over-engineer"
+msgstr "https://github.com/over-engineer"
+
+#. URI of the plugin
+msgid "https://github.com/over-engineer/gasp"
+msgstr "https://github.com/over-engineer/gasp"
+
+#: includes/admin/settings.php:59
+msgid "Ignore administrators"
+msgstr "Αγνόησε τους διαχειριστές"
+
+#: includes/admin/settings.php:66
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: includes/admin/settings.php:32
+msgid "Main settings"
+msgstr "Κεντρικές ρυθμίσεις"
+
+#. Author of the plugin
+msgid "over-engineer"
+msgstr "over-engineer"
