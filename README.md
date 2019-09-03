@@ -3,6 +3,9 @@
 </p>
 
 # Simple Plugin for Google Analytics
+[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/overengineer-gasp)](https://wordpress.org/plugins/overengineer-gasp/)
+[![WordPress Plugin: Tested WP Version](https://img.shields.io/wordpress/plugin/tested/overengineer-gasp)](https://wordpress.org/plugins/overengineer-gasp/)
+
 😱 GASP. An unofficial WordPress plugin for Google Analytics.
 
 ## Table of Contents
